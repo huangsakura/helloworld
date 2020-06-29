@@ -1,0 +1,20 @@
+{
+    "name": "huangjinlong/helloworld",
+    "description": "学习推送到packagist",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "huangjinlong",
+            "email": "1612740549@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload" : {
+        "psr-4": {
+            "huangsakura\\helloworld\\": "src/"
+        }
+    }
+}
